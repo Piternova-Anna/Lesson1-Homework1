@@ -4,3 +4,13 @@ C:\Users\21\Desktop\lesson1\вторая задача\obj\Debug\net6.0\втор�
 C:\Users\21\Desktop\lesson1\вторая задача\obj\Debug\net6.0\вторая задача.AssemblyInfoInputs.cache
 C:\Users\21\Desktop\lesson1\вторая задача\obj\Debug\net6.0\вторая задача.AssemblyInfo.cs
 C:\Users\21\Desktop\lesson1\вторая задача\obj\Debug\net6.0\вторая задача.csproj.CoreCompileInputs.cache
+C:\Users\21\Desktop\lesson1\вторая задача\bin\Debug\net6.0\вторая задача.exe
+C:\Users\21\Desktop\lesson1\вторая задача\bin\Debug\net6.0\вторая задача.deps.json
+C:\Users\21\Desktop\lesson1\вторая задача\bin\Debug\net6.0\вторая задача.runtimeconfig.json
+C:\Users\21\Desktop\lesson1\вторая задача\bin\Debug\net6.0\вторая задача.dll
+C:\Users\21\Desktop\lesson1\вторая задача\bin\Debug\net6.0\ref\вторая задача.dll
+C:\Users\21\Desktop\lesson1\вторая задача\bin\Debug\net6.0\вторая задача.pdb
+C:\Users\21\Desktop\lesson1\вторая задача\obj\Debug\net6.0\вторая задача.dll
+C:\Users\21\Desktop\lesson1\вторая задача\obj\Debug\net6.0\ref\вторая задача.dll
+C:\Users\21\Desktop\lesson1\вторая задача\obj\Debug\net6.0\вторая задача.pdb
+C:\Users\21\Desktop\lesson1\вторая задача\obj\Debug\net6.0\вторая задача.genruntimeconfig.cache
