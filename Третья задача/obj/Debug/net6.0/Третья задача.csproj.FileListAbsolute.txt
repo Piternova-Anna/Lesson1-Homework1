@@ -1,0 +1,16 @@
+C:\Users\21\Desktop\lesson1\Третья задача\obj\Debug\net6.0\Третья задача.GlobalUsings.g.cs
+C:\Users\21\Desktop\lesson1\Третья задача\obj\Debug\net6.0\Третья задача.csproj.AssemblyReference.cache
+C:\Users\21\Desktop\lesson1\Третья задача\obj\Debug\net6.0\Третья задача.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\21\Desktop\lesson1\Третья задача\obj\Debug\net6.0\Третья задача.AssemblyInfoInputs.cache
+C:\Users\21\Desktop\lesson1\Третья задача\obj\Debug\net6.0\Третья задача.AssemblyInfo.cs
+C:\Users\21\Desktop\lesson1\Третья задача\obj\Debug\net6.0\Третья задача.csproj.CoreCompileInputs.cache
+C:\Users\21\Desktop\lesson1\Третья задача\bin\Debug\net6.0\Третья задача.exe
+C:\Users\21\Desktop\lesson1\Третья задача\bin\Debug\net6.0\Третья задача.deps.json
+C:\Users\21\Desktop\lesson1\Третья задача\bin\Debug\net6.0\Третья задача.runtimeconfig.json
+C:\Users\21\Desktop\lesson1\Третья задача\bin\Debug\net6.0\Третья задача.dll
+C:\Users\21\Desktop\lesson1\Третья задача\bin\Debug\net6.0\ref\Третья задача.dll
+C:\Users\21\Desktop\lesson1\Третья задача\bin\Debug\net6.0\Третья задача.pdb
+C:\Users\21\Desktop\lesson1\Третья задача\obj\Debug\net6.0\Третья задача.dll
+C:\Users\21\Desktop\lesson1\Третья задача\obj\Debug\net6.0\ref\Третья задача.dll
+C:\Users\21\Desktop\lesson1\Третья задача\obj\Debug\net6.0\Третья задача.pdb
+C:\Users\21\Desktop\lesson1\Третья задача\obj\Debug\net6.0\Третья задача.genruntimeconfig.cache

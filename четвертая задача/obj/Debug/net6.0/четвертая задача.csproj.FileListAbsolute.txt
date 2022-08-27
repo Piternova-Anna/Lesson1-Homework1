@@ -1,0 +1,16 @@
+C:\Users\21\Desktop\lesson1\четвертая задача\bin\Debug\net6.0\четвертая задача.exe
+C:\Users\21\Desktop\lesson1\четвертая задача\bin\Debug\net6.0\четвертая задача.deps.json
+C:\Users\21\Desktop\lesson1\четвертая задача\bin\Debug\net6.0\четвертая задача.runtimeconfig.json
+C:\Users\21\Desktop\lesson1\четвертая задача\bin\Debug\net6.0\четвертая задача.dll
+C:\Users\21\Desktop\lesson1\четвертая задача\bin\Debug\net6.0\ref\четвертая задача.dll
+C:\Users\21\Desktop\lesson1\четвертая задача\bin\Debug\net6.0\четвертая задача.pdb
+C:\Users\21\Desktop\lesson1\четвертая задача\obj\Debug\net6.0\четвертая задача.GlobalUsings.g.cs
+C:\Users\21\Desktop\lesson1\четвертая задача\obj\Debug\net6.0\четвертая задача.csproj.AssemblyReference.cache
+C:\Users\21\Desktop\lesson1\четвертая задача\obj\Debug\net6.0\четвертая задача.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\21\Desktop\lesson1\четвертая задача\obj\Debug\net6.0\четвертая задача.AssemblyInfoInputs.cache
+C:\Users\21\Desktop\lesson1\четвертая задача\obj\Debug\net6.0\четвертая задача.AssemblyInfo.cs
+C:\Users\21\Desktop\lesson1\четвертая задача\obj\Debug\net6.0\четвертая задача.csproj.CoreCompileInputs.cache
+C:\Users\21\Desktop\lesson1\четвертая задача\obj\Debug\net6.0\четвертая задача.dll
+C:\Users\21\Desktop\lesson1\четвертая задача\obj\Debug\net6.0\ref\четвертая задача.dll
+C:\Users\21\Desktop\lesson1\четвертая задача\obj\Debug\net6.0\четвертая задача.pdb
+C:\Users\21\Desktop\lesson1\четвертая задача\obj\Debug\net6.0\четвертая задача.genruntimeconfig.cache
